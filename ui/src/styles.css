@@ -1,0 +1,20 @@
+@import "@angular/material/prebuilt-themes/indigo-pink.css";
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  background: #f6f7fb;
+}
+
+.page {
+  padding: 24px;
+}
+
+.disclaimer {
+  background: #fff3cd;
+  border: 1px solid #ffeeba;
+  color: #664d03;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
